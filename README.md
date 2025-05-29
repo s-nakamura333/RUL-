@@ -4,7 +4,7 @@
 
 ## 🔗 公開ページ
 <ul>
-  <li><a href="rul-prediction/index.html" target="_blank">📘 技術詳細ページを見る</a></li>
+  <li><a href="index.html" target="_blank">📘 技術詳細ページを見る</a></li>
   <li><a href="rul-prediction/docs/RUL_summary.pdf" target="_blank">📄 分析スライド資料（PDF）を見る</a></li>
   <li><a href="https://github.com/s-nakamura333/RUL-prediction/blob/main/RUL_P_20250123.ipynb" target="_blank">🧪 実装コード（Jupyter Notebook）を見る</a></li>
 </ul>
