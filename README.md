@@ -4,9 +4,11 @@
 
 ## 🔗 公開ページ
 <ul>
-  <li><a href="https://github.com/s-nakamura333/RUL-prediction/blob/main/index.html" target="_blank">📘 技術詳細ページを見る</a></li>
-  <li><a href="https://github.com/s-nakamura333/RUL-prediction/blob/main/docs/RUL_summary.pdf" target="_blank">📄 分析スライド資料（PDF）を見る</a></li>
-  <li><a href="https://github.com/s-nakamura333/RUL-prediction/blob/main/RUL_P_20250123.ipynb" target="_blank">🧪 実装コード（Jupyter Notebook）を見る</a></li>
+## 🔗 公開ページ
+- 📘 [技術詳細ページを見る（GitHub Pages）](https://s-nakamura333.github.io/RUL-prediction/)
+- 📄 [分析スライド資料（PDF）を見る](https://s-nakamura333.github.io/RUL-prediction/docs/RUL_summary.pdf)
+- 🧪 [実装コード（Jupyter Notebook）を見る](https://github.com/s-nakamura333/RUL-prediction/blob/main/RUL_P_20250123.ipynb)
+
 </ul>
 ## 📄 資料構成
 - `index.html`: 技術的な詳細説明（GitHub Pages）
