@@ -8,10 +8,6 @@
   <li><a href="https://github.com/s-nakamura333/RUL-prediction/blob/main/docs/RUL_summary.pdf" target="_blank">📄 分析スライド資料（PDF）を見る</a></li>
   <li><a href="https://github.com/s-nakamura333/RUL-prediction/blob/main/RUL_P_20250123.ipynb" target="_blank">🧪 実装コード（Jupyter Notebook）を見る</a></li>
 </ul>
-## 📄 資料構成
-- `index.html`: 技術的な詳細説明（GitHub Pages）
-- `docs/RUL_summary.pdf`: 一般向けスライド資料（※今後追加予定）
-- `src/`: コードやノートブック（※今後追加予定）
 
 ## 💻 使用技術
 Python / Google Colab / ChatGPT / LightGBM / XGBoost / CatBoost
