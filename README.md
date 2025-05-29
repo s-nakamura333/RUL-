@@ -3,8 +3,11 @@
 このリポジトリは、航空機用ターボエンジンの使用データを用いて残存耐用時間（RUL）を予測するプロジェクトです。
 
 ## 🔗 公開ページ
-➡ [成果物ページを見る](https://s-nakamura333.github.io/RUL-prediction/)
-
+<ul>
+  <li><a href="rul-prediction/index.html" target="_blank">📘 技術詳細ページを見る</a></li>
+  <li><a href="rul-prediction/docs/RUL_summary.pdf" target="_blank">📄 分析スライド資料（PDF）を見る</a></li>
+  <li><a href="https://github.com/s-nakamura333/RUL-prediction/blob/main/RUL_P_20250123.ipynb" target="_blank">🧪 実装コード（Jupyter Notebook）を見る</a></li>
+</ul>
 ## 📄 資料構成
 - `index.html`: 技術的な詳細説明（GitHub Pages）
 - `docs/RUL_summary.pdf`: 一般向けスライド資料（※今後追加予定）
