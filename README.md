@@ -10,3 +10,12 @@
 
 ## 💻 使用技術
 Python / Google Colab / ChatGPT / LightGBM / XGBoost / CatBoost
+
+<h2>📎 関連ポートフォリオリンク</h2>
+<ul>
+  <li><a href="https://github.com/s-nakamura333/sn-portfolio-site" target="_blank">就活用ポートフォリオ一覧</a></li>
+  <li><a href="https://github.com/s-nakamura333/donjara" target="_blank">ドンジャラ計算ツール</a></li>
+  <li><a href="https://github.com/s-nakamura333/RUL-prediction" target="_blank">ターボエンジンRUL予測</a></li>
+  <li><a href="https://github.com/s-nakamura333/kinoko" target="_blank">毒キノコの分類について</a></li>
+</ul>
+
